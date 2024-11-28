@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      lineHeight: {
+        'extra-loose': '2.5', // Custom value
+        'triple': '3', // Another custom value
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
