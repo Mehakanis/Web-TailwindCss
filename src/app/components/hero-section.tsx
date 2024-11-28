@@ -48,10 +48,10 @@ export default function HeroSection() {
     />
   {/* Buttons next to "01" */}
   <div className="absolute bottom-[-20px] right-0 flex  ">
-          <button className="bg-transparent border-2 border-[#42454A] text-[#17181A] p-2 rounded-l-full h-[50px] w-[50px] px-4 ">
+          <button className="bg-transparent border-2 border-[#42454A] text-[#17181A] p-2 rounded-l-full h-[50px] w-[50px] px-4 hidden md:block ">
             <FontAwesomeIcon icon={faAngleLeft} height={20} width={20} />
           </button>
-          <button className="bg-transparent border-2 border-[#42454A] text-[#17181A] p-2 rounded-r-full h-[50px] w-[50px] px-3 ">
+          <button className="bg-transparent border-2 border-[#42454A] text-[#17181A] p-2 rounded-r-full h-[50px] w-[50px] px-3 hidden md:block ">
             <FontAwesomeIcon icon={faAngleRight} height={20} width={20} />
           </button>
         </div>
