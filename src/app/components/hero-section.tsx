@@ -62,7 +62,7 @@ export default function HeroSection() {
       {/* Content over the background */}
       <div className="relative z-10 flex items-center ">
         <Image
-          src={"/image/hero.png"}
+          src={"/hero.png"}
           alt="Scooter Image"
           width={800}
           height={800}
