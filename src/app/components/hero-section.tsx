@@ -55,8 +55,8 @@ export default function HeroSection() {
             <FontAwesomeIcon icon={faAngleRight} height={20} width={20} />
           </button>
         </div>
-      
-      {/* Background with curved effect */}
+  
+      {/* Background with curved effect */}{}
       <div className="absolute right-0 w-[200px] md:w-[360px] h-[200px] md:h-[380px]  bg-gray-200 rounded-l-full"></div>
       
       {/* Content over the background */}
