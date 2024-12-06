@@ -9,7 +9,7 @@ export default function ProductInfo (){
         </div>
         <div className="flex justify-around mt-10 items-center">
             <div className="">
-            <Image src="/image/p1.png" alt="" width={500} height={500}  />
+            <Image src="/p1.png" alt="" width={500} height={500}  />
             </div>
             <div className="mt-2 ">
                 <ul className="list-disc leading-extra-loose text-xl ">

@@ -43,7 +43,7 @@ export default function HeroSection() {
       <div className="relative w-full h-[600px] flex justify-center items-center pt-30px">
         {/* Large "01" in the background */}
     
-    <Image src="/image/01.png" alt="" height={200} width={200}
+    <Image src="/01.png" alt="" height={200} width={200}
     className="absolute text-[180px] font-bold  stroke-[#8B938D] stroke-2 top-[520px] right-15 left-1/2 z-0 bottom-20  "
     />
   {/* Buttons next to "01" */}

@@ -10,7 +10,7 @@ export default function Gallery(){
             <div className="flex justify-around mt-14">
                 {/* left side */}
                 <div className="mt-32 text-center">
-                    <Image src="/image/g2.png" alt="" width={450} height={400} />
+                    <Image src="/g2.png" alt="" width={450} height={400} />
                     <br />
 <ul className="space-y-6 leading-10">
                     <li className="border font-bold rounded-md border-[#42454A] text-[#42454A] p-3 px-4 text-sm leading-3">Battery Images</li>
@@ -21,9 +21,9 @@ export default function Gallery(){
                 </div>
                 {/* right side */}
                 <div>
-                <Image src="/image/g1.png" alt="" width={450} height={400} />
+                <Image src="/g1.png" alt="" width={450} height={400} />
                 <br />
-                <Image src="/image/g3.png" alt="" width={450} height={400} />
+                <Image src="/g3.png" alt="" width={450} height={400} />
 
                 </div>
             </div>

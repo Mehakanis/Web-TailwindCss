@@ -22,11 +22,11 @@ export default function MultipleAccessories() {
           </ul>
         </div>
         <div>
-          <Image src="/image/ma1.png" alt="" width={200} height={200} />
+          <Image src="/ma1.png" alt="" width={200} height={200} />
         </div>
 
         <div>
-          <Image src="/image/ma2.png" alt="" width={350} height={350} />
+          <Image src="/ma2.png" alt="" width={350} height={350} />
         </div>
         </div>
 
@@ -34,10 +34,10 @@ export default function MultipleAccessories() {
 
          <div className="flex flex-wrap justify-center md:justify-around items-center mt-8 gap-6 px-4">
             <div className="flex justify-center">
-            <Image src="/image/ma3.png" alt="" width={350} height={350} className="object-contain" />
+            <Image src="/ma3.png" alt="" width={350} height={350} className="object-contain" />
             </div >
             <div className="flex justify-center">
-            <Image src="/image/ma4.png" alt="" width={150} height={150} className="object-contain"/>
+            <Image src="/ma4.png" alt="" width={150} height={150} className="object-contain"/>
             </div>
 <div className="flex-1 max-w-sm text-left">
                 <h1 className="font-bold text-3xl">Shopping Rack</h1>

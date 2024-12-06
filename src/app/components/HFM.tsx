@@ -10,7 +10,7 @@ export default function HFM(){
                 <br />
                 
                 <div className="flex justify-center">
-                <Image src="/image/p2.png" alt="" width={800} height={500} />
+                <Image src="/p2.png" alt="" width={800} height={500} />
                 </div>
             </div>
         </section>

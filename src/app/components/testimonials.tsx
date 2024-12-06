@@ -17,7 +17,7 @@ export default function Test() {
             pleasure.
           </p>
           <span className="flex justify-center gap-2 items-center py-4">
-            <Image src="/image/t1.png" alt="" width={40} height={40} />
+            <Image src="/t1.png" alt="" width={40} height={40} />
             <div>
               <h2 className="font-bold text-sm">Serhiy Hipskyy</h2>
               <h3 className="text-sm">CEO Universal</h3>
@@ -47,7 +47,7 @@ export default function Test() {
             dolores.
           </p>
           <span className="flex justify-center gap-2 items-center py-4">
-            <Image src="/image/t2.png" alt="" width={40} height={40} />
+            <Image src="/t2.png" alt="" width={40} height={40} />
             <div>
               <h2 className="font-bold text-sm">Britain Eriksen</h2>
               <h3 className="text-sm">CEO Universal</h3>
@@ -56,7 +56,7 @@ export default function Test() {
         </div>
       </div>
       <div className="flex justify-center py-6">
-      <Image src="/image/Arrows.png" alt="" width={100} height={100} />
+      <Image src="/Arrows.png" alt="" width={100} height={100} />
 
       </div>
     </section>

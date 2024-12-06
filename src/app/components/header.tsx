@@ -18,7 +18,7 @@ export default function Header() {
       <div className="flex justify-between items-center mx-4 sm:mx-10">
         {/* Logo */}
         <div>
-          <Image src="/Image/logo.png" alt="logo" height={50} width={50} />
+          <Image src="/logo.png" alt="logo" height={50} width={50} />
         </div>
 
         {/* Desktop Navigation */}
