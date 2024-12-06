@@ -27,7 +27,7 @@ export default function Footer() {
           {/* Image Section */}
           <div className="flex justify-center lg:justify-start w-full lg:w-1/2">
             <Image
-              src="/image/f1.png"
+              src="/f1.png"
               alt="Footer Image"
               width={600}
               height={600}
@@ -60,7 +60,7 @@ export default function Footer() {
               <li>Copyright Privacy</li>
               <li>Policy Disclaimer</li>
               <li>Terms</li>
-              <Image src="/image/icons.png" alt="Icons" width={120} height={120} className="pt-4 mx-auto lg:mx-0" />
+              <Image src="/icons.png" alt="Icons" width={120} height={120} className="pt-4 mx-auto lg:mx-0" />
             </ul>
           </div>
         </div>

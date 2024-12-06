@@ -33,7 +33,7 @@ export default function HeroSection() {
           <p className="text-lg font-semibold hidden md:block">
             Watch our <br /> video on how <br /> it works
           </p>
-          <Image src="/image/play button.png" alt="play-button" height={50} width={50} className="hidden md:block" />
+          <Image src="/play button.png" alt="play-button" height={50} width={50} className="hidden md:block" />
         </div>
         </div>
       </div>
